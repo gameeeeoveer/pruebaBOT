@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "qr.js",
+  "scripts": {
+  "start": "node qr.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
